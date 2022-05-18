@@ -72,7 +72,7 @@ plt.imshow(edges1)
 
 ### Input image and grayscale image
 
-![git logo](1.png)
+![git logo](4.png)
 
 ### Canny Edge detector output
 
@@ -80,7 +80,7 @@ plt.imshow(edges1)
 
 
 ### Display the result of Hough transform
-![git logo](3.png)
+![git logo](5.png)
 
 
 
